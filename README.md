@@ -1,2 +1,5 @@
 # Calculator
-A simple calculator operations on GUI
+Simple calculator operations on GUI
+________________________________________
+
+All you have to do is open this project in netbeans IDE and run the GUI file from GUI package.
